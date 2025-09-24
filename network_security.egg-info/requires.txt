@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+python-dotenv
+pandas
+numpy
+
+[dev]
+pytest
+black
+flake8
+mypy
