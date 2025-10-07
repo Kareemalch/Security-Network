@@ -1,0 +1,2 @@
+[ 2025-10-06 21:50:58,061 ] 18 root - INFO - Initiate the data ingestion
+[ 2025-10-06 21:50:58,061 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: 'DataIngestion' object has no attribute 'initiate_data_ingestion'

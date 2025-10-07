@@ -1,0 +1,4 @@
+[ 2025-10-06 21:52:10,413 ] 18 root - INFO - Initiate the data ingestion
+[ 2025-10-06 21:52:10,520 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: database names cannot contain the character ' '
+[ 2025-10-06 21:52:10,520 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: database names cannot contain the character ' '
+[ 2025-10-06 21:52:10,521 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: database names cannot contain the character ' '

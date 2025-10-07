@@ -1,7 +1,7 @@
 from pymongo.mongo_client import MongoClient
 
 # Your MongoDB connection string
-uri = "mongodb+srv://kareemalchorbaji_db_user:Admin23@cluster0.12offo8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://kareemalchorbaji_db_user:9fKKZj7KOZkDqHHT@cluster0.12offo8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 def debug_mongodb():
     try:

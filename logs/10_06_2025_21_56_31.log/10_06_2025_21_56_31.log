@@ -1,0 +1,3 @@
+[ 2025-10-06 21:56:31,972 ] 18 root - INFO - Initiate the data ingestion
+[ 2025-10-06 21:56:34,980 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: 'DataIngestion' object has no attribute 'split_data_as_train_test'
+[ 2025-10-06 21:56:34,980 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: 'DataIngestion' object has no attribute 'split_data_as_train_test'

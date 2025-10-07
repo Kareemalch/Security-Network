@@ -1,0 +1,4 @@
+[ 2025-10-06 21:53:03,386 ] 18 root - INFO - Initiate the data ingestion
+[ 2025-10-06 21:53:04,970 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: 'NoneType' object has no attribute 'to_csv'
+[ 2025-10-06 21:53:04,970 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: 'NoneType' object has no attribute 'to_csv'
+[ 2025-10-06 21:53:04,970 ] 16 network_security.exception.exception - ERROR - NetworkSecurityException: 'NoneType' object has no attribute 'to_csv'

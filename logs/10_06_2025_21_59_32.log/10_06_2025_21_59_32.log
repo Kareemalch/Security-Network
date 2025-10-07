@@ -1,0 +1,9 @@
+[ 2025-10-06 21:59:32,771 ] 18 root - INFO - Initiate the data ingestion
+[ 2025-10-06 21:59:34,380 ] 90 root - INFO - Exported data from MongoDB as DataFrame
+[ 2025-10-06 21:59:34,442 ] 94 root - INFO - Exported data into feature store
+[ 2025-10-06 21:59:34,444 ] 62 root - INFO - Performed train test split on the dataframe
+[ 2025-10-06 21:59:34,444 ] 67 root - INFO - Exporting train and test file path
+[ 2025-10-06 21:59:34,508 ] 81 root - INFO - Exported train and test file path
+[ 2025-10-06 21:59:34,508 ] 98 root - INFO - Train test split completed
+[ 2025-10-06 21:59:34,508 ] 106 root - INFO - Data ingestion artifact created successfully
+[ 2025-10-06 21:59:34,508 ] 20 root - INFO - Data Initiation Completed
